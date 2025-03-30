@@ -1,5 +1,7 @@
 import React from "react";
-import "./Footer.css";
+import '../styles/styles.css';
+
+
 
 const Footer = () => {
   return <footer className="main-footer">&copy; Palmetto Fresh Meats</footer>;

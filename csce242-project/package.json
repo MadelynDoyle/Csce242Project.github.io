@@ -12,7 +12,7 @@
     "react-router-dom": "^7.4.1",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4",
-    "homepage": "https://Csce242Project.github.io"
+    "homepage": "https://csce242project.github.io"
   },
   "scripts": {
     "start": "react-scripts start",
